@@ -8,4 +8,4 @@ def decrement(x):
     return x - 1 
 
 def tothepoweroftwo(x):
-    return x * x
+    return x **2

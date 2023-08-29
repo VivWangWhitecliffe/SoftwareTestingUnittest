@@ -15,7 +15,7 @@ class Test_TestIncrementDecrement(unittest.TestCase):
     
     def test_power(self): 
 
-        self.assertEqual(inc_dec.tothepoweroftwo(3), 7)  # This test is designed to fail 
+        self.assertEqual(inc_dec.tothepoweroftwo(3), 9)  # This test is designed to fail 
         
     if __name__ == '__main__': 
 
