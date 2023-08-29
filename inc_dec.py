@@ -6,3 +6,6 @@ def increment(x):
 def decrement(x): 
 
     return x - 1 
+
+def tothepoweroftwo(x):
+    return x * x
